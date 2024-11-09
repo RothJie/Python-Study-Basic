@@ -1,6 +1,3 @@
-# Python-Study-Basic
-python的基础部分代码已上传
-
 git clone 仓库地址ssh
 
 拖动文件到仓库下面
